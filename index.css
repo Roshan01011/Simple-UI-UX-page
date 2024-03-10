@@ -65,6 +65,7 @@ nav-right {
   padding: 10px 20px;
   border-radius: 20px;
   font-weight: bold;
+  color:white;
   margin-top: 20px;
   background: linear-gradient(
     to right,
@@ -112,6 +113,7 @@ nav-right {
   border-radius: 25px;
   font-weight: bold;
   margin-top: 20px;
+  color:white;
   background: linear-gradient(
     to right,
     rgb(255, 145, 0),
